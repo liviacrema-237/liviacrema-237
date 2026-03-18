@@ -1,5 +1,14 @@
-# 👋 Olá, eu sou a Livia Crema
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=180&section=header&text=Livia+Crema&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
+
+# 👋 Olá, eu sou a Livia Crema
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=180&section=header&text=Jefferson+Savidotti&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+
+
+(Condigo antigo no meio)
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=150&section=footer"/>
 💻 Desenvolvedora apaixonada por tecnologia  
 🚀 Sempre aprendendo algo novo  
 🌎 Brasil  
@@ -34,4 +43,5 @@
 - 📧 Email: Cremalivia31@gmail.com
 
 ---
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=150&section=footer"/>
 
