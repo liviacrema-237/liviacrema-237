@@ -32,7 +32,7 @@
 
 ## 📫 Como me encontrar
 
-- 💼 LinkedIn: https://linkedin.com/in/liviacremahttps://www.linkedin.com/feed/
+- 💼 LinkedIn:https://www.linkedin.com/feed/
 - 📧 Email: Cremalivia31@gmail.com
 
 ---
